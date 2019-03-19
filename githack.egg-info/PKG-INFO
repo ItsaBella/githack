@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: githack
+Version: 0.1
+Summary: EDSA hackathon python package
+Home-page: https://github.com/ItsaBella/githack.git
+Author: Itumeleng Mothapo
+Author-email: itumelengbotshelo7@gmail.com
+License: MIT
+Description: # githack
+        This library was created as an example to test my understanding on how to publish a python package.
+        
+Platform: UNKNOWN

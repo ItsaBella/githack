@@ -1,0 +1,10 @@
+README.md
+setup.py
+githack.egg-info/PKG-INFO
+githack.egg-info/SOURCES.txt
+githack.egg-info/dependency_links.txt
+githack.egg-info/requires.txt
+githack.egg-info/top_level.txt
+mypackage/__init__.py
+mypackage/recursion.py
+mypackage/sorting.py
